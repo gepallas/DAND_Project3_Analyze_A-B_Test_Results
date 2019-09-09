@@ -16,6 +16,7 @@ The following steps have been performed:
 	- Statsmodels built-in operations (better computation performance than bootstraping with a large number of simulations), and p-value calculation
 	- Logistic regression to predict if a user will convert or not
 	- Multiple regression
+- Discussion and conclusions
 
 ## Statistical Analysis
 
